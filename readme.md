@@ -70,3 +70,5 @@ To build updated versions of the class reference documents found in `packages/do
 ```bash
 lerna run build-docs
 ```
+
+changed for the new badge.
